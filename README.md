@@ -1,6 +1,6 @@
 # Hi, I'm Steven Dairo 👋
 
-I'm a **Cybersecurity and IT professional in training** based in **Toronto, Canada**, currently studying Cybersecurity and IT Fundamentals at **CDI College**. I'm building my skills in **Governance, Risk, and Compliance (GRC)** with a focus on security frameworks and framework implementation.
+I'm a **Cybersecurity and GRC Analyst in training** based in **Toronto, Canada**, with a background in Cybersecurity and IT Fundamentals at **CDI College**. I'm building my skills in **Governance, Risk, and Compliance (GRC)** with a focus on security frameworks and framework implementation.
 
 ## 📚 What I'm Currently Learning
 
