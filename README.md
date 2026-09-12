@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Steven Dairo 👋
 
-<!--
-**Dairo00/Dairo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Cybersecurity and IT professional in training** based in **Toronto, Canada**, currently studying Cybersecurity and IT Fundamentals at **CDI College**. I'm building my skills in **Governance, Risk, and Compliance (GRC)** with a focus on security frameworks and framework implementation.
 
-Here are some ideas to get you started:
+## 📚 What I'm Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **GRC Analyst** skills and best practices
+* **Security framework implementation**
+* **ISO 27001** and **ISO 27002**
+* Governance, risk, and compliance concepts
+* Cybersecurity and IT fundamentals
+
+## 🛠️ Skills & Tools
+
+* **GRC:** GRC processes, framework implementation
+* **Frameworks:** ISO 27001, ISO 27002
+* **Tools:** ServiceNow GRC, Kali Linux
+* **Cybersecurity:** IT security fundamentals and risk management
+
+## 🎯 My Goals
+
+* Become a **GRC Analyst**
+* Earn my **ISC2 certification**
+* Earn the **ISACA CISA certification**
+* Continue developing practical cybersecurity and GRC experience
+
+## 💡 Fun Fact
+
+I enjoy **learning new things and exploring technology**. I'm always looking for opportunities to expand my knowledge and develop new skills.
+
+## 📫 How to Reach Me
+
+* **LinkedIn:** [www.linkedin.com/in/steven-dairo-2b08192a2](#)
+* **Email:** [Stevenkdairo@gmail.com](mailto:your-email@example.com)
