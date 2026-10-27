@@ -6,7 +6,7 @@ I'm a **Cybersecurity and GRC Analyst professional** based in **Toronto, Canada*
 
 * **GRC Analyst** skills and best practices
 * **Security framework implementation**
-* **ISO 27001**, **NIST Cybersecurity Framework**and SOC 2
+* **ISO 27001**, **NIST Cybersecurity Framework** and SOC 2
 * Governance, risk, and compliance concepts
 * Cybersecurity and IT fundamentals
 
