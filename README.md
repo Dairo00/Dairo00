@@ -1,28 +1,25 @@
 # Hi, I'm Steven Dairo 👋
 
-I'm a **Cybersecurity and GRC Analyst professional** based in **Toronto, Canada**, with a background in Cybersecurity and IT Fundamentals at **CDI College**. I'm building my skills in **Governance, Risk, and Compliance (GRC)** with a focus on security frameworks and framework implementation.
+I'm a **Cybersecurity and GRC Analyst professional** based in **Toronto, Canada**, with a background in Cybersecurity and IT Fundamentals at **CDI College**. I help bridge the gap between business objectives, cybersecurity risks, and regulatory requirements by turning complex compliance frameworks into practical, measurable security outcomes.
 
-## 📚 What I'm Currently Learning
+## 🔐 Areas of Focus
 
-* **GRC Analyst** skills and best practices
-* **Security framework implementation**
-* **ISO 27001**, **NIST Cybersecurity Framework** and SOC 2
-* Governance, risk, and compliance concepts
-* Cybersecurity and IT fundamentals
-
-## 🛠️ Skills & Tools
+* **Governance:** Security policies, standards, procedures, and security governance. 
+* **Risk Management:** Risk assessments, risk registers, treatment plans, and risk mitigation.
+* **Compliance:** ISO/IEC 27001, NIST Cybersecurity Framework, SOC 2, and GDPR.
+* **Security Assurance:** Control mapping, gap assessments, audit readiness, and evidence management.
+* **Third-Party Risk:** Vendor assessments, due diligence, and supply chain security.
+* **GRC Automation:** Streamlining compliance workflows, tracking controls, and improving reporting.
+  
+## 🧰 What You'll Find Here
 
 * **GRC:** GRC processes, framework implementation
-* **Frameworks:** ISO 27001, ISO 27002
-* **Tools:** ServiceNow GRC, Kali Linux
-* **Cybersecurity:** IT security fundamentals and risk management
+* 🔎 Practical cybersecurity and compliance projects
+* 📝 Security policies and compliance checklists
+* 📊 Risk assessment and control mapping resources
 
 ## 🎯 My Goals
-
-* Become a **GRC Analyst**
-* Earn my **ISC2 certification**
-* Earn the **ISACA CISA certification**
-* Continue developing practical cybersecurity and GRC experience
+To make cybersecurity governance more effective, risk management more proactive, and compliance more practical through structured processes, continuous learning, and automation.
 
 ## 💡 Fun Fact
 
